@@ -1,5 +1,5 @@
 import streamlit as st
-
+import app2
 st.set_page_config(
     page_title="Blog Generator",
     page_icon="🐾",
